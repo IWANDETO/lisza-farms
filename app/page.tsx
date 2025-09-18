@@ -12,7 +12,7 @@ export default function HomePage() {
           <nav className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Leaf className="h-8 w-8 text-primary" />
-              <h1 className="text-2xl font-bold text-foreground">Nyota Beans</h1>
+              <h1 className="text-2xl font-bold text-foreground">LIZSA</h1>
             </div>
             <div className="hidden md:flex items-center gap-6">
               <a href="#about" className="text-muted-foreground hover:text-primary transition-colors">
@@ -149,7 +149,7 @@ export default function HomePage() {
               <CardContent>
                 <div className="aspect-square bg-muted rounded-lg mb-4 flex items-center justify-center">
                   <img
-                    src="/premium-nyota-beans.png"
+                    src="/IMG11.jpg"
                     alt="Premium Nyota Beans"
                     className="w-full h-full object-cover rounded-lg"
                   />
@@ -166,7 +166,7 @@ export default function HomePage() {
               <CardContent>
                 <div className="aspect-square bg-muted rounded-lg mb-4 flex items-center justify-center">
                   <img
-                    src="/placeholder-iy75e.png"
+                    src="/IMG7.jpg"
                     alt="Farming Consultation"
                     className="w-full h-full object-cover rounded-lg"
                   />
@@ -188,7 +188,7 @@ export default function HomePage() {
               <CardContent>
                 <div className="aspect-square bg-muted rounded-lg mb-4 flex items-center justify-center">
                   <img
-                    src="/modern-bean-processing.png"
+                    src="/IMG9.jpg"
                     alt="Processing Services"
                     className="w-full h-full object-cover rounded-lg"
                   />
@@ -210,7 +210,7 @@ export default function HomePage() {
               <CardContent>
                 <div className="aspect-square bg-muted rounded-lg mb-4 flex items-center justify-center">
                   <img
-                    src="/placeholder-kq0n0.png"
+                    src="/IMG1.Jpg"
                     alt="Educational Resources"
                     className="w-full h-full object-cover rounded-lg"
                   />
@@ -311,14 +311,14 @@ export default function HomePage() {
             <div>
               <h4 className="font-semibold mb-3">Contact</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li>info@nyotabeans.com</li>
-                <li>+1 (555) 123-4567</li>
-                <li>123 Farm Road, Agriculture Valley</li>
+                <li>lizsafarmerservicecentre@gmail.com</li>
+                <li>+ (254) 714152336</li>
+                <li>Mbumbuni Market, Makueni County</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; 2024 Nyota Bean Farming. All rights reserved.</p>
+            <p>&copy; 2025 @ Lizsafsc.org  All rights reserved.</p>
           </div>
         </div>
       </footer>
